@@ -1,0 +1,19 @@
+.form-body{
+    width: 80%;
+    padding-left: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.body-style{
+    background-color: whitesmoke;
+}
+.media img{
+    width: 30%;
+}
+.footer-style{
+    display: flex;
+}
+.social-name{
+    display: flex;
+    align-content: center;
+}
